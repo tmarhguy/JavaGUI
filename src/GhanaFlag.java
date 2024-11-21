@@ -13,7 +13,7 @@ public class GhanaFlag {
         contentPane.setLayout(new BoxLayout(contentPane, BoxLayout.Y_AXIS));
 
         // Create an image for the star
-        ImageIcon star = new ImageIcon("/Users/tyronemarhguy/Downloads/star.png");
+        ImageIcon star = new ImageIcon("/Users/tyronemarhguy/Downloads/JavaGUI/src/star.png");
         ImageIcon icon = new ImageIcon(star.getImage().getScaledInstance(100, 100, Image.SCALE_SMOOTH));
 
         // Create label to hold the star
